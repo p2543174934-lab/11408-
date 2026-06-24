@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c2700e11f14aea15",
+    "id": "d2fcd129ee21ea8c",
     "type": "split",
     "children": [
       {
-        "id": "41aecc34427a4906",
+        "id": "692ac3b587a933b1",
         "type": "tabs",
         "children": [
           {
-            "id": "39a8277dc32093ce",
+            "id": "d6c2c83fc1cd991d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_科目笔记/CO_计组/07_输入输出系统/05_程序中断方式.md",
+                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_程序中断方式"
+              "title": "13_调度算法"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36e679d995eecd25",
+    "id": "09a6aa60ae6e745f",
     "type": "split",
     "children": [
       {
-        "id": "2fc0c69a2565a5f8",
+        "id": "ce720996eb27872b",
         "type": "tabs",
         "children": [
           {
-            "id": "d58a35587061927e",
+            "id": "3be9ace10706f5c1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2d4de290772dce2c",
+            "id": "0a5d45342ba466a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c81fcca4bdcf1c57",
+            "id": "c640b14619e7a1da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "0378c1b0aecc2dc1",
+    "id": "da3a441ae796d401",
     "type": "split",
     "children": [
       {
-        "id": "22e128c643d17643",
+        "id": "af43abce2be3e3c1",
         "type": "tabs",
         "children": [
           {
-            "id": "c66416f0a6bec2f6",
+            "id": "f088e9ca74d7a8b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_科目笔记/CO_计组/07_输入输出系统/05_程序中断方式.md",
+                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "05_程序中断方式 的反向链接列表"
+              "title": "13_调度算法 的反向链接列表"
             }
           },
           {
-            "id": "8c1363df4465d0c9",
+            "id": "efc1d5f9def82d6d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_科目笔记/CO_计组/07_输入输出系统/05_程序中断方式.md",
+                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "05_程序中断方式 的出链列表"
+              "title": "13_调度算法 的出链列表"
             }
           },
           {
-            "id": "1e8540e3cb796e8e",
+            "id": "ed9427622c378a2c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +138,7 @@
             }
           },
           {
-            "id": "d82aeb99429aa3db",
+            "id": "270f595d9e997bf2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,25 +152,25 @@
             }
           },
           {
-            "id": "97538fb00fc91655",
+            "id": "c7b80bdc71368d1d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_科目笔记/CO_计组/07_输入输出系统/05_程序中断方式.md",
+                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05_程序中断方式 的大纲"
+              "title": "13_调度算法 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,54 +185,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39a8277dc32093ce",
+  "active": "d6c2c83fc1cd991d",
   "lastOpenFiles": [
-    "01_科目笔记/CO_计组/07_输入输出系统/04_程序查询方式.md",
-    "01_科目笔记/CO_计组/07_输入输出系统/05_程序中断方式.md",
-    "01_科目笔记/CO_计组/07_输入输出系统/06_DAM方式.md",
-    "01_科目笔记/CO_计组/06_总线/03_总线操作和定时.md",
-    "readme.md",
-    "99_attachments/Pasted image 20260612105840.png",
-    "99_attachments/Pasted image 20260612103559.png",
-    "99_attachments/Pasted image 20260611204507.png",
-    "99_attachments/Pasted image 20260611204208.png",
-    "99_attachments/Pasted image 20260611203614.png",
-    "01_科目笔记/CO_计组/07_输入输出系统/03_IO接口.md",
-    "01_科目笔记/CO_计组/07_输入输出系统/02_外部设备.md",
-    "01_科目笔记/CO_计组/07_输入输出系统/01_输入输出系统和IO控制方式.md",
-    "01_科目笔记/CO_计组/07_输入输出系统",
-    "99_attachments/Pasted image 20260611170909.png",
-    "99_attachments/Pasted image 20260611170455.png",
-    "01_科目笔记/CO_计组/06_总线/02_总线的性能指标.md",
-    "01_科目笔记/CO_计组/06_总线/01_总线概述.md",
-    "99_attachments/Pasted image 20260611161548.png",
-    "99_attachments/Pasted image 20260611161347.png",
-    "01_科目笔记/CO_计组/05_中央处理器/14_多处理器的基本概念.md",
-    "01_科目笔记/CO_计组/06_总线",
-    "01_科目笔记/CO_计组/05_中央处理器/13_五段式指令流水线.md",
-    "01_科目笔记/CO_计组/05_中央处理器/12_指令流水线影响因素分类.md",
-    "01_科目笔记/CO_计组/05_中央处理器/11_指令流水线的基本概念和性能指标.md",
-    "99_attachments/Pasted image 20260610101725.png",
-    "01_科目笔记/CO_计组/05_中央处理器/08_微指令的设计.md",
-    "01_科目笔记/CO_计组/05_中央处理器/09_微程序控制单元的设计.md",
-    "01_科目笔记/CO_计组/05_中央处理器/07_微程序控制器的基本原理.md",
-    "01_科目笔记/CO_计组/05_中央处理器/06_硬布线控制器.md",
-    "01_科目笔记/CO_计组/05_中央处理器/10_异常和中断机制.md",
-    "01_科目笔记/CO_计组/04_指令系统/09_CISC和RISC.md",
-    "01_科目笔记/CO_计组/05_中央处理器/04_数据通路-专用数据通路.md",
-    "01_科目笔记/CO_计组/05_中央处理器/03_数据通路-单总线结构.md",
-    "01_科目笔记/CO_计组/05_中央处理器/02_指令的执行过程.md",
-    "01_科目笔记/CO_计组/05_中央处理器/01_CPU的基本结构和功能.md",
-    "未命名.base",
-    "未命名.md",
-    "01_科目笔记/CO_计组/04_指令系统/08_过程调用的机器级表示.md",
-    "01_科目笔记/CO_计组/05_中央处理器",
-    "01_科目笔记/CO_计组/04_指令系统",
-    "01_科目笔记/CO_计组/03存储系统/未命名",
-    "01_科目笔记/CO_计组/03存储系统",
-    "01_科目笔记/CO_计组/数据的表示和运算/未命名",
-    "01_科目笔记/CO_计组/02数据的表示和运算",
-    "01_科目笔记/CO_计组/01计算机系统概述",
-    "未命名.canvas"
+    "01_科目笔记/OS_操作系统/02_进程与线程/12_调度算法的评价指标.md",
+    "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
+    "01_科目笔记/OS_操作系统/02_进程与线程/11_调度器和闲逛进程.md",
+    "01_科目笔记/OS_操作系统/02_进程与线程/10_进程调度的时机、切换与过程、调度方式.md",
+    "01_科目笔记/OS_操作系统/02_进程与线程/09_调度的概念、层次.md",
+    "99_attachments/Pasted image 20260624173932.png",
+    "99_attachments/Pasted image 20260624173916.png",
+    "01_科目笔记/OS_操作系统/02_进程与线程/08_线程的状态和转换.md"
   ]
 }
