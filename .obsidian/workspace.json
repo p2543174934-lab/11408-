@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d2fcd129ee21ea8c",
+    "id": "5e3c22704a3ed37b",
     "type": "split",
     "children": [
       {
-        "id": "991afccbaa5b1ab4",
+        "id": "2935840ccef36486",
         "type": "tabs",
         "children": [
           {
-            "id": "40523b3553c0be6d",
+            "id": "5eeeb635b33813dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_科目笔记/OS_操作系统/05_设备管理/04_IO软件层次结构.md",
+                "file": "01_科目笔记/CN_计网/01_计算机网络体系结构/02_计算机网络的组成、功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_IO软件层次结构"
+              "title": "02_计算机网络的组成、功能"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "09a6aa60ae6e745f",
+    "id": "8794ec89fda8eca1",
     "type": "split",
     "children": [
       {
-        "id": "ce720996eb27872b",
+        "id": "b519b38094f423c1",
         "type": "tabs",
         "children": [
           {
-            "id": "3be9ace10706f5c1",
+            "id": "6f5480e46db2fe4d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "0a5d45342ba466a7",
+            "id": "db67f124c70ba3a5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"excalidraw-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c640b14619e7a1da",
+            "id": "167cf0272f4770b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.50152587890625
+    "width": 300
   },
   "right": {
-    "id": "da3a441ae796d401",
+    "id": "3b576f97bdde757d",
     "type": "split",
     "children": [
       {
-        "id": "af43abce2be3e3c1",
+        "id": "7c0c468cd6cab076",
         "type": "tabs",
         "children": [
           {
-            "id": "f088e9ca74d7a8b0",
+            "id": "f47d96417eb10cbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_科目笔记/OS_操作系统/03_内存管理/03_进程的内存映像.md",
-                "collapseAll": true,
+                "file": "01_科目笔记/OS_操作系统/05_设备管理/02_IO控制器.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03_进程的内存映像 的反向链接列表"
+              "title": "02_IO控制器 的反向链接列表"
             }
           },
           {
-            "id": "efc1d5f9def82d6d",
+            "id": "405e2f9be09ca175",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
+                "file": "01_科目笔记/OS_操作系统/05_设备管理/02_IO控制器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "13_调度算法 的出链列表"
+              "title": "02_IO控制器 的出链列表"
             }
           },
           {
-            "id": "ed9427622c378a2c",
+            "id": "95d34c5efb5c4cb6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "270f595d9e997bf2",
+            "id": "bc5fc1938668c914",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +151,21 @@
             }
           },
           {
-            "id": "c7b80bdc71368d1d",
+            "id": "bdae4db71fdd7bd7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_科目笔记/OS_操作系统/02_进程与线程/13_调度算法.md",
+                "file": "01_科目笔记/OS_操作系统/05_设备管理/02_IO控制器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "13_调度算法 的大纲"
+              "title": "02_IO控制器 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,45 +184,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40523b3553c0be6d",
+  "active": "5eeeb635b33813dd",
   "lastOpenFiles": [
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/01_计算机网络的概念.md",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/02_计算机网络的组成、功能.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/12_磁盘调度算法.md",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构",
+    "01_科目笔记/CO_计组/03存储系统/08_固态硬盘SSD.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/14_固态硬盘.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/13_减少磁盘延迟时间的方法.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/11_ 磁盘的管理.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/07_假脱机技术.md",
     "01_科目笔记/OS_操作系统/05_设备管理/02_IO控制器.md",
-    "01_科目笔记/OS_操作系统/05_设备管理/04_IO软件层次结构.md",
     "01_科目笔记/OS_操作系统/05_设备管理/03_IO控制方式.md",
-    "01_科目笔记/OS_操作系统/05_设备管理/01_IO设备的概念和分类.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/11_文件系统的系统布局.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/10_文件系统的层次结构.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/12_虚拟文件系统＆文件系统挂载.md",
-    "99_attachments/Pasted image 20260703104522.png",
-    "99_attachments/Pasted image 20260703104312.png",
-    "99_attachments/Pasted image 20260703103902.png",
-    "99_attachments/Pasted image 20260703103010.png",
-    "99_attachments/Pasted image 20260703102613.png",
-    "99_attachments/Pasted image 20260703101310.png",
+    "01_科目笔记/OS_操作系统/05_设备管理/04_IO软件层次结构.md",
     "01_科目笔记/OS_操作系统/05_设备管理/05_输入输出应用程序接口＆设备驱动程序接口.md",
-    "01_科目笔记/OS_操作系统/05_设备管理",
-    "99_attachments/Pasted image 20260702193023.png",
-    "01_科目笔记/OS_操作系统/04_文件管理/07_文件存储空间管理.md",
-    "99_attachments/Pasted image 20260702192951.png",
-    "99_attachments/Pasted image 20260702192756.png",
-    "99_attachments/Pasted image 20260702191757.png",
-    "01_科目笔记/OS_操作系统/04_文件管理/02_文件系统结构.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/05_文件的物理结构.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/09_文件保护.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/08_文件共享.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/06_文件的操作.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/04_文件目录.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/03_文件的逻辑结构.md",
-    "01_科目笔记/OS_操作系统/04_文件管理/01_文件的基本概念.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/17_页面分配规则.md",
-    "01_科目笔记/OS_操作系统/04_文件管理",
-    "01_科目笔记/OS_操作系统/03_内存管理/18_内存映射文件.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/19_页框回收.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/16_页面置换算法.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/15_请求分页管理方式.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/14_虚拟内存的基本概念.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/13_段页式管理方式.md",
-    "01_科目笔记/OS_操作系统/03_内存管理/12_基本分段存储管理方式.md",
-    "01_科目笔记/OS_操作系统/03_内存管理"
+    "01_科目笔记/OS_操作系统/05_设备管理/06_IO核心子系统.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/08_设备的分配与回收.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/09_缓冲区管理.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/10_磁盘的结构.md",
+    "01_科目笔记/OS_操作系统/05_设备管理/01_IO设备的概念和分类.md"
   ]
 }
