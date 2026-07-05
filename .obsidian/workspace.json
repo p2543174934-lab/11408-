@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_科目笔记/CN_计网/01_计算机网络体系结构/02_计算机网络的组成、功能.md",
+                "file": "01_科目笔记/CN_计网/01_计算机网络体系结构/05_计算机网络的性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_计算机网络的组成、功能"
+              "title": "05_计算机网络的性能指标"
             }
           }
         ]
@@ -186,8 +186,18 @@
   },
   "active": "5eeeb635b33813dd",
   "lastOpenFiles": [
-    "01_科目笔记/CN_计网/01_计算机网络体系结构/01_计算机网络的概念.md",
+    "99_attachments/Pasted image 20260705151847.png",
+    "99_attachments/Pasted image 20260705144351.png",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/04_计算机网络的分类.md",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/05_计算机网络的性能指标.md",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/03_电路交换 报文交换 分组交换.md",
+    "99_attachments/Pasted image 20260705142157.png",
+    "99_attachments/Pasted image 20260705142126.png",
+    "99_attachments/Pasted image 20260705141956.png",
+    "99_attachments/Pasted image 20260705141745.png",
+    "99_attachments/Pasted image 20260705133047.png",
     "01_科目笔记/CN_计网/01_计算机网络体系结构/02_计算机网络的组成、功能.md",
+    "01_科目笔记/CN_计网/01_计算机网络体系结构/01_计算机网络的概念.md",
     "01_科目笔记/OS_操作系统/05_设备管理/12_磁盘调度算法.md",
     "01_科目笔记/CN_计网/01_计算机网络体系结构",
     "01_科目笔记/CO_计组/03存储系统/08_固态硬盘SSD.md",
