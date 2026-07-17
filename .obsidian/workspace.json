@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_科目笔记/CN_计网/05_传输层/03_TCP.md",
+                "file": "01_科目笔记/CN_计网/06_应用层/06_超文本传输协议HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_TCP"
+              "title": "06_超文本传输协议HTTP"
             }
           }
         ]
@@ -184,22 +184,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f5480e46db2fe4d",
+  "active": "5eeeb635b33813dd",
   "lastOpenFiles": [
-    "01_科目笔记/CN_计网/06_应用层",
-    "99_attachments/Pasted image 20260714173643.png",
-    "99_attachments/Pasted image 20260714172809.png",
-    "99_attachments/Pasted image 20260714171919.png",
-    "99_attachments/Pasted image 20260714165933.png",
-    "99_attachments/Pasted image 20260714165829.png",
-    "99_attachments/Pasted image 20260714165431.png",
-    "99_attachments/Pasted image 20260714163446.png",
-    "99_attachments/Pasted image 20260714163321.png",
-    "99_attachments/Pasted image 20260714153720.png",
-    "99_attachments/Pasted image 20260714153436.png",
-    "Excalidraw/红黑树的删除.excalidraw.md",
+    "99_attachments/Pasted image 20260717104236.png",
+    "01_科目笔记/CN_计网/06_应用层/05_万维网.md",
+    "01_科目笔记/CN_计网/06_应用层/06_超文本传输协议HTTP.md",
+    "99_attachments/Pasted image 20260717102838.png",
+    "99_attachments/Pasted image 20260716213611.png",
+    "99_attachments/Pasted image 20260716211425.png",
+    "01_科目笔记/CN_计网/06_应用层/04_电子邮件.md",
+    "99_attachments/Pasted image 20260716203535.png",
+    "99_attachments/Pasted image 20260716203241.png",
+    "99_attachments/Pasted image 20260716202707.png",
+    "99_attachments/Pasted image 20260716202055.png",
+    "01_科目笔记/CN_计网/06_应用层/03_FTP.md",
+    "99_attachments/Pasted image 20260716194752.png",
+    "99_attachments/Pasted image 20260716194742.png",
+    "01_科目笔记/CN_计网/06_应用层/02_DNS.md",
+    "99_attachments/Pasted image 20260716172908.png",
+    "01_科目笔记/CN_计网/06_应用层/01_网络应用模型.md",
     "01_科目笔记/CN_计网/05_传输层/03_TCP.md",
     "01_科目笔记/CN_计网/05_传输层/02_UDP.md",
+    "01_科目笔记/CN_计网/06_应用层",
+    "Excalidraw/红黑树的删除.excalidraw.md",
     "01_科目笔记/CO_计组/05_中央处理器/06_硬布线控制器.md",
     "01_科目笔记/CN_计网/04_网络层/02_IPV4分组.md",
     "01_科目笔记/CN_计网/04_网络层/03_IP地址（最初的分类方案）.md",
@@ -217,12 +224,6 @@
     "01_科目笔记/CN_计网/04_网络层/12_路由算法.md",
     "01_科目笔记/CN_计网/04_网络层/13_分层次的路由选择协议.md",
     "未命名.md",
-    "01_科目笔记/CN_计网/04_网络层/10_ICMP 网际控制报文协议.md",
-    "01_科目笔记/CN_计网/04_网络层/08_地址解析协议ARP.md",
-    "01_科目笔记/CN_计网/03_数据链路层/13_以太网＆802.3.md",
-    "01_科目笔记/CN_计网/03_数据链路层/14_VLAN的基本概念和基本原理.md",
-    "01_科目笔记/CN_计网/04_网络层/04_子网划分和子网掩码.md",
-    "01_科目笔记/CN_计网/04_网络层/05_无分类编址CIDR.md",
     "01_科目笔记/CN_计网/04_网络层",
     "01_科目笔记/CN_计网/03_数据链路层",
     "01_科目笔记/CN_计网/02_物理层",
